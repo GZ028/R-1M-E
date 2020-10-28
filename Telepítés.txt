@@ -2,7 +2,7 @@ Szükséged lesz: Tampermonkey vagy más sript manager-re
 
 Firefox: https://addons.mozilla.org/hu/firefox/addon/tampermonkey/
 
-Google: https://chrome.google.com/webstore/detail/tampermonkey/
+Google: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 Telepítés után válaszd ezt: raw
 megynyílik a tampermonkey --> Telepítés
