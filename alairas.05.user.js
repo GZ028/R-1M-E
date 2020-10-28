@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name        Hello World
+// @name        reach1millioneasy
+// @description reach1millioneasy
+//@author       -----
+//@iconurl      /assets/front/img/logo.png
 // @namespace   http://hayageek.com
 // @updateURL    https://gist.githubusercontent.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/e3d6d4351160e768644d016183ed52b78f818bd7/alairas.05.user.js
 // @downloadURL  https://gist.githubusercontent.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/e3d6d4351160e768644d016183ed52b78f818bd7/alairas.05.user.js
 // @match        http*://*.alairasgyujtes.com/*  
 // @include     https://alairasgyujtes.com/
-// @version     0.5
+// @version     0.6
 // ==/UserScript==
 
 var input = document.createElement("input");
