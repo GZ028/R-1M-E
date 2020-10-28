@@ -1,0 +1,9 @@
+Szükséged lesz: Tampermonkey vagy más sript manager-re
+
+Firefox: https://addons.mozilla.org/hu/firefox/addon/tampermonkey/
+
+Google: https://chrome.google.com/webstore/detail/tampermonkey/
+
+Telepítés után válaszd ezt: raw
+megynyílik a tampermonkey --> Telepítés
+Vissza mész az alairasgyujtes.com-ra és a jobb felső sarokban lesz egy gomb 🙂
