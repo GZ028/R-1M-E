@@ -1,6 +1,7 @@
 // ==UserScript==
-// @name        Hello World
+// @name        
 // @namespace   http://hayageek.com
+
 // @match        http*://*.alairasgyujtes.com/*  
 // @include     https://alairasgyujtes.com/
 // @version     0.5
