@@ -7,7 +7,7 @@
 // @updateURL   https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/5dc06cedf9a0193f98e7abb22d5e2b43e195b516/Reach1MEasy.user.js
 // @downloadURL https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/5dc06cedf9a0193f98e7abb22d5e2b43e195b516/Reach1MEasy.user.js
 // @match        https*://*.alairasgyujtes.com/*  
-// @version     0.8
+// @version     0.9
 // ==/UserScript==
 
 var input = document.createElement("input");
