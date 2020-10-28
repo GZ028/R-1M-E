@@ -2,13 +2,13 @@
 // @name        reach1millioneasy
 // @description reach1millioneasy
 //@author       -----
-//@iconurl64      /assets/front/img/logo.png
+//@defaulticon      /assets/front/img/logo.png
 // @namespace   http://hayageek.com
-// @updateURL    https://gist.githubusercontent.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/e3d6d4351160e768644d016183ed52b78f818bd7/alairas.05.user.js
-// @downloadURL  https://gist.githubusercontent.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/e3d6d4351160e768644d016183ed52b78f818bd7/alairas.05.user.js
+// @updateURL    https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/da540cc558615bf196762816d60fa90a1b5f62ed/alairas.05.user.js
+// @downloadURL  https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/da540cc558615bf196762816d60fa90a1b5f62ed/alairas.05.user.js
 // @match        http*://*.alairasgyujtes.com/*  
 // @include     https://alairasgyujtes.com/
-// @version     0.8
+// @version     0.9
 // ==/UserScript==
 
 var input = document.createElement("input");
