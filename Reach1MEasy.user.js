@@ -4,8 +4,8 @@
 //@author       -----
 //@defaulticon  https://alairasgyujtes.com/assets/front/img/logo.png    
 // @namespace   https://alairasgyujtes.com/
-// @updateURL   https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/Reach1MEasy.user.js
-// @downloadURL https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/Reach1MEasy.user.js
+// @updateURL   https://github.com/GZ028/R-1M-E/raw/master/Reach1MEasy.user.js
+// @downloadURL https://github.com/GZ028/R-1M-E/raw/master/Reach1MEasy.user.js
 // @match        https*://*.alairasgyujtes.com/*  
 // @version     0.9
 // ==/UserScript==
