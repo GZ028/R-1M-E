@@ -1,0 +1,12 @@
+0.1
+-Nem kell a gombért görgetni (jobb fölső sarok)
+
+
+0.4
+- Csak a kérdéses oldalon tűnik fel a gomb
+
+0.5
+- Jobban látható, kicsit modernebb gomb
+
+0.6
+- Automatikus frissités
