@@ -4,10 +4,10 @@
 //@author       -----
 //@defaulticon  https://alairasgyujtes.com/assets/front/img/logo.png    
 // @namespace   https://alairasgyujtes.com/
-// @updateURL    https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/da540cc558615bf196762816d60fa90a1b5f62ed/alairas.05.user.js
-// @downloadURL  https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/da540cc558615bf196762816d60fa90a1b5f62ed/alairas.05.user.js
+// @updateURL   https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/5dc06cedf9a0193f98e7abb22d5e2b43e195b516/Reach1MEasy.user.js
+// @downloadURL https://gist.github.com/GZ028/276b45dae293a1d08cfe83c261c66f8a/raw/5dc06cedf9a0193f98e7abb22d5e2b43e195b516/Reach1MEasy.user.js
 // @match        https*://*.alairasgyujtes.com/*  
-// @version     0.6
+// @version     0.7
 // ==/UserScript==
 
 var input = document.createElement("input");
