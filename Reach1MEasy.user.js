@@ -7,7 +7,7 @@
 // @updateURL   https://github.com/GZ028/R-1M-E/raw/master/Reach1MEasy.user.js
 // @downloadURL https://github.com/GZ028/R-1M-E/raw/master/Reach1MEasy.user.js
 // @match        https*://*.alairasgyujtes.com/*  
-// @version     1.1
+// @version     0.7
 // ==/UserScript==
 
 var input = document.createElement("input");
@@ -32,7 +32,7 @@ function showAlert() {
     item = nevek[Math.floor(Math.random() * nevek.length)];
     item2 = nevek[Math.floor(Math.random() * nevek.length)];
     var item3 = emailveg[Math.floor(Math.random() * emailveg.length)];
-    document.getElementsByName("email")[0].value = item.normalize("NFD").replace(/[/s \u0300-\u036f]/g, "") + "@" + item2.normalize("NFD").replace(/[\u0300-\u036f]/g, "") + "." + item3;
+    document.getElementsByName("email")[0].value = item.normalize("NFD").replace(/[ \u0300-\u036f /s]/g, "") + "@" + item2.normalize("NFD").replace(/[\u0300-\u036f /s]/g, "") + "." + item3.replace(/\s+/g, '');
     document.getElementsByName("phone")[0].value = Math.floor(Math.random() * (999999999 - 111111111)) + 111111111;
     document.querySelectorAll('input[type="checkbox"]').forEach(ele => ele.checked = true);
 
