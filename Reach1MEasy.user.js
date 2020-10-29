@@ -7,7 +7,7 @@
 // @updateURL   https://github.com/GZ028/R-1M-E/raw/master/Reach1MEasy.user.js
 // @downloadURL https://github.com/GZ028/R-1M-E/raw/master/Reach1MEasy.user.js
 // @match        https*://*.alairasgyujtes.com/*  
-// @version     0.9
+// @version     1.0
 // ==/UserScript==
 
 var input = document.createElement("input");
